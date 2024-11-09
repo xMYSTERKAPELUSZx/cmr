@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------
+
+Prev 0.0.1
+
+- Made launcher in CB v0.1 style.
+- New Game tab pre CB v0.9 readded.
+- Readded old console.
+- Readded old MouseLook and MovePlayer speed.
+- Old inventory code (not the pre 5 slots era yet).
+- Made so hand2 is not needed like in the old versions of CB.
+- Readded old Sprint and Eye icon with the bars.
+- Readded old Hand texture.
+- Readded the old menu and launcher texture.
+- Readded the old door and button model with the textures.
+- Added old 106 model.
+- Added old 173 model.
+- Added old guard model.
+- Added old mtf model.
+- Removed guard giving paper and also other stuff in the intro that will make it old style.
+- Readded some old textures for now.

@@ -1,4 +1,4 @@
-<h1>SCP - Containment Breach Classic Mod Reborn</h1>
+<h2>SCP - Containment Breach Classic Mod Reborn</h2>
 
 The game is based on the works of the SCP Foundation community (http://www.scp-wiki.net/).
 

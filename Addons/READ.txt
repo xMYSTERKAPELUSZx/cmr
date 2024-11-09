@@ -1,0 +1,4 @@
+I know some of you want the old wall texture from v0.1 so if you want to then here you have.
+You can replace it and I gave you backup just in case.
+
+Copy and paste it in map and map2 to work because map2 uses the old maps and map uses the new ones. (Am planing on merging them when I will be done with the rooms)

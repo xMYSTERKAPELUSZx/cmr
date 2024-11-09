@@ -1,4 +1,4 @@
-# SCP - Containment Breach
+# SCP - Containment Breach Classic Mod Reborn Beta v0.3
 
 The game is based on the works of the SCP Foundation community (http://www.scp-wiki.net/).
 

@@ -1,4 +1,5 @@
-SCP - Containment Breach
+<h1>SCP - Containment Breach Classic Mod Reborn</h1>
+
 The game is based on the works of the SCP Foundation community (http://www.scp-wiki.net/).
 
 This game and the source code are licensed under Creative Commons Attribution-ShareAlike 3.0 License.

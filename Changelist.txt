@@ -1,0 +1,150 @@
+Full Release v1.0 - The gate will open.
+
+- Updated room2tunnel.
+- Updated room2pipes 106 event. (Pre v0.6)
+- Changed SCP-096, SCP-008, SCP-513 document in the old style. (Credits to Steelpoint and TheGreenGentleman. I took them from a long abandoned SCP-CB forum on Tapatalk that Regalis made back in 2012)
+- Added some stuff in Changelist.
+- Changed some stuff in MapSystem.
+- Changed SCP-049 and SCP-035 document in the old style
+- Updated Main Menu.
+- Changed and added some stuff in credits.
+- Changed credits background.
+- Changed ending background.
+- Added SCP-1074 from BoH.
+- MTF Spawn at Gate B.
+------------------------------------------
+21/06/2024 - 02/09/2024
+boooo lazy dev 3 months of not making crap
+------------------------------------------
+- Added old Gate A Entrance.
+- Removed Gate A Entrance gate like in 0.6.
+- Gate A dosn't require Old AI event to escape.
+- Updated the command that unlocks exits.
+- Moddified old 079 chamber event code.
+- Gate B opens when 079 event is done like in old versions.
+- Gate B old B3 ending.
+- Updated MouseLook code.
+- Changed commands list in console.
+- Old 106 code.
+- Old 895 chamber code.
+- No horror8.ogg sound when loading finish.
+- Removed SCP-966 chamber.
+- Small changes in CreateMap function.
+- Old tesla gate sounds.
+- No save sounds.
+- F1 to save.
+
+Bug Fixes:
+- Fixed player not spawning in 173 chamber after intro.
+- Added missing Horror7.ogg.
+- Fixed lockroom2 not spawning.
+- Fixed coffin not spawning.
+- Fixed wierd horror sounds miss placement.
+
+
+----------------------------------------------------------------------------------
+
+Beta v0.3 - Even more!
+
+- Readded the old pausemenu from v0.3.
+- Resized the pausemenu to the original size.
+- Readded the old Ending menu.
+- Changed the achievements.
+- Readded the old start after intro.
+- Readded the old alarm event.
+- Readded the old intro.
+- Intro is working fine now right?........right?......RI-
+- Readded the old Class D model from v0.6.
+- Added SCP-005 from BoH.
+- Added SCP-005 Chamber from BoH.
+- Changed some stuff in CreatMap Function.
+- Rooms.ini don't require zone anymore.
+- Added conference room.
+
+----------------------------------------------------------------------------------
+
+Alpha v0.2 - Don't Blink.
+
+- Readded old Class D img from loadingscreen.
+- Made some newer rooms not spawnable.
+- Got rid of the HCZ door finally.
+- The Dread theme plays in every zone without a transition.
+- Got rid of the zone transition. (Be cerful with it because some stuff may be broken)
+- Made Addons folder for some of ya.
+- Fixed the crash that happens when entering 079 chamber. (Forgot to remove a not needed event that crashed upon entering the room, sorry!)
+- Removed the door in testroom.
+- Readded the old SCP-079 chamber pre v0.6.
+- Made Map Creator with that classic fell.
+- Added descr to rooms for the Map Creator.
+- MTF no longer has breath sound.
+- Some rooms have been replaced with the old ones or modified.
+- Replaced medibay and room1archive from Box of Horrors.
+- Changed some stuff in rooms.ini.
+
+
+Am well aware about the intro being broken.
+----------------------------------------------------------------------------------
+
+Alpha v0.1 - First Release.
+
+- Readded most of the old rooms.
+- Converted .b3d rooms to .rmesh.
+- Modified room2nuke, room2doors, room2closets, room2testroom2, room079 code.
+- Removed some Events for the classic feel.
+- Level 2 keycard spawns in room2testroom2 like in CB v0.9.3.
+- Readded old documents (not every were made in that old style because they didn't exist then).
+- Readded NTF document that spawns in room2testroom2.
+- room2testroom2 dosn't require keycard like in pre v0.9.
+- Guard event dosn't spawn in room2toilets like in pre v0.6.5.
+- room2closets spawn original item list and removed the event like in pre v0.7.
+- room2doors buttons are in the original position.
+- room2nuke uses the normal door for the elevator.
+- SCP-079 chamber dosn't have the door to the right anymore like in old versions.
+- Readded more old sounds.
+- Removed Checkpoints.
+- Changed launcher and menu texture.
+- room2elevator uses the normal door for the elevator.
+- Any room that has elevator got standard normal door.
+- Readded the old 914 keycard system.
+- Changed some achievements descriptions to the old ones.
+
+----------------------------------------------------------------------------------
+
+Prev 0.0.2
+
+- Readded old step sounds.
+- Readded old radio sounds.
+- Readded old interaction sounds.
+- Readded old battery model.
+- Readded old keycards.
+- Readded old fog texture.
+- Readded some old textures again.
+- Readded old Radio.
+- Readded old Battery.
+- Readded old Keycards.
+- Readded old Navigator.
+- Readded old SCP-096. (Mirocaine the original creator of the model)
+- Readded old SCP-049.
+- Readded old SCP-049-2.
+- New vid intro.
+
+----------------------------------------------------------------------------------
+
+Prev 0.0.1
+
+- Made launcher in CB v0.1 style.
+- New Game tab pre CB v0.9 readded.
+- Readded old console.
+- Readded old MouseLook and MovePlayer speed.
+- Old inventory code (not the pre 5 slots era yet).
+- Made so hand2 is not needed like in the old versions of CB.
+- Readded old Sprint and Eye icon with the bars.
+- Readded old Hand texture.
+- Readded the old menu and launcher texture.
+- Readded the old door and button model with the textures.
+- Added old 106 model.
+- Added old 173 model. (Credits to Atomicsneak the original creator of the model)
+- Added old guard model. (Orgil D. Pount (Destructoid) the original creator of the model)
+- Added old mtf model. (Orgil D. Pount (Destructoid) the original creator of the model)
+- Removed guard giving paper and also other stuff in the intro that will make it old style.
+- Readded some old textures for now.
